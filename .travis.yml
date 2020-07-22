@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku-18
   api-key: 
-    secure: bd3eb2d5-7490-43fa-abfa-e2134a9c5e4a
+    secure: Teste
   app: devops-helloword-teste
